@@ -1,0 +1,13 @@
+Assistant checkpoint: Updated symptom threshold from 4 to 3 symptoms
+
+Assistant generated file changes:
+- chatbot.py: Update symptom threshold from 4 to 3, Update diagnosis threshold check
+
+---
+
+User prompt:
+
+so after this message, Let's start over. 💉 Welcome to Medi Chat! I'm your virtual health advisor. For the best diagnosis, please tell me about 3 or more symptoms you're experiencing, let the chatbot diagnose the patient or user after the input of the symptoms
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 321fb350-ce1c-4437-9b37-e175a96b64fc
